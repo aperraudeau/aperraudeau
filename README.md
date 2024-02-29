@@ -8,7 +8,7 @@ Feel free to connect with me here:
 [![Medium Badge](https://img.shields.io/badge/-@aperraudeau-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aperraudeau/)](https://medium.com/@aperraudeau)
 
 - 🔭 I’m currently working on Azure and .NET Applications
-- 🌱 I’m currently learning AWS and API Management
+- 🌱 I’m currently learning Architecture Patterns and API Management
 - 💬 Ask me about Microsoft Technologies and Blockchain
 
 ### Languages and Tools
